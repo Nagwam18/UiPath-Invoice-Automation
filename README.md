@@ -118,3 +118,6 @@ During login automation, the password value was being entered into the email fie
 ### Output Excel
 
 ![Output Excel](Screenshots/output1.png)
+
+## Demo
+ ![Demo](Screenshots/Demo.mp4)
