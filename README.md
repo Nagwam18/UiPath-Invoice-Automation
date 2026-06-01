@@ -106,3 +106,15 @@ During login automation, the password value was being entered into the email fie
 ✔ Exception-Aware Development
 
 ## Screenshots
+
+### Main Workflow
+
+![Main Workflow](Screenshots/main_workflow.png)
+
+### Invoice Search Page
+
+![Invoice Search](Screenshots/invoice_search.png)
+
+### Output Excel
+
+![Output Excel](Screenshots/output1.png)
