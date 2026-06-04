@@ -121,4 +121,6 @@ During login automation, the password value was being entered into the email fie
 
 ## Demo
 
- [Demo](Screenshots/Demo.mp4)
+Simple link:
+[Watch the demo (Google Drive)](https://drive.google.com/file/d/1xD1grj9PPZUTqCcLEUpeIqP52zSKwP0F/view?usp=drive_link)
+
